@@ -1,0 +1,10 @@
+# IPUMS microdata: redistribution prohibited by IPUMS terms
+usa_00001.csv.gz
+*.csv.gz
+
+# BLS API key: keep private
+bls_api_key.txt
+
+# Jupyter and OS clutter
+.ipynb_checkpoints/
+.DS_Store
